@@ -4,8 +4,7 @@
 <ul>
   <li>Create Virtual Machine/Resource Group</li>
   <li>Configure Port Rules</li>
-  <li></li>
-  <li></li>
+  <li>Set Up Microsoft Sentinel</li>
 </ul>
 
 ![SIEM_01](https://github.com/Keepcodingjoni619/Microsoft_Sentinel_SIEM/assets/82996237/e84aaa7e-b394-430b-b43e-2a5cda1a10ff)
